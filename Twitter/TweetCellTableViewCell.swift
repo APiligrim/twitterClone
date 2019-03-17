@@ -2,8 +2,8 @@
 //  TweetCellTableViewCell.swift
 //  Twitter
 //
-//  Created by Albert Gertskis on 3/7/19.
-//  Copyright © 2019 Dan. All rights reserved.
+//  Created by Anastasiya Uraleva on 3/7/19.
+//  Copyright © 2019 Anastasiya Uraleva. All rights reserved.
 //
 
 import UIKit

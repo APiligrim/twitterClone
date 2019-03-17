@@ -2,8 +2,8 @@
 //  TweetViewController.swift
 //  Twitter
 //
-//  Created by Dayana Veliyeva on 3/16/19.
-//  Copyright © 2019 Dan. All rights reserved.
+//  Created by Anastasiya Uraleva on 3/16/19.
+//  Copyright © 2019 Anastasiya Uraleva. All rights reserved.
 //
 
 import UIKit

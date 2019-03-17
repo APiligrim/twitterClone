@@ -2,8 +2,8 @@
 //  APIManager.swift
 //  Twitter
 //
-//  Created by Dan on 1/3/19.
-//  Copyright © 2019 Dan. All rights reserved.
+//  Created by Anastasiya Uraleva on 1/3/19.
+//  Copyright © 2019 Anastasiya Uraleva. All rights reserved.
 //
 
 
